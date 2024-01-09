@@ -1,0 +1,5 @@
+E:\Mphasis Phase4\Day3\ConProOne\ConProOne\obj\Debug\net6.0\ConProOne.GeneratedMSBuildEditorConfig.editorconfig
+E:\Mphasis Phase4\Day3\ConProOne\ConProOne\obj\Debug\net6.0\ConProOne.AssemblyInfoInputs.cache
+E:\Mphasis Phase4\Day3\ConProOne\ConProOne\obj\Debug\net6.0\ConProOne.AssemblyInfo.cs
+E:\Mphasis Phase4\Day3\ConProOne\ConProOne\obj\Debug\net6.0\ConProOne.csproj.CoreCompileInputs.cache
+E:\Mphasis Phase4\Day3\ConProOne\ConProOne\obj\Debug\net6.0\ConProOne.sourcelink.json
